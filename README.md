@@ -1,10 +1,8 @@
-💃 Welcome to GoddessDAO 💃
+#💃 Welcome to GoddessDAO 💃
 
 This Dao is build from Javascript.
 
 '''Below URL Diagram for the build.''''
-
-Upon download, if you have this error:
 
 
 ## General info
@@ -22,22 +20,21 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
 $ npm install
 $ npm start
 Connect with your metamask account.
 ```
 
-
-If you have this error:
+##If you have this error:
 'react-scripts' is not recognized as an internal or external command
 
-You can solve it with "npm install react-scripts --save"
+
+You can solve it with 
+```
+npm install react-scripts --save
+```
 
 
-Key Features:
 
-
-What I had learned:
 
 
