@@ -16,14 +16,6 @@ Project is created with:
 *React.JS
 *JavaScript
 	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ npm install
-$ npm start
-Connect with your metamask account.
-```
 
 ##If you have this error:
 'react-scripts' is not recognized as an internal or external command
