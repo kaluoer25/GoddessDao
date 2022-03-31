@@ -1,11 +1,43 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+💃 Welcome to GoddessDAO 💃
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+This Dao is build from Javascript.
 
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
+'''Below URL Diagram for the build.''''
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+Upon download, if you have this error:
+
+
+## General info
+GoddessDao is created whereby each GoddessDao member who minted the NFT will have the rights to vote for their most desired proposal with a bonus of enquire Goddess Token airdrop.
+
+
+## Technologies
+Project is created with:
+*Thirdweb sdk
+*Solidity
+*React.JS
+*JavaScript
+	
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+Connect with your metamask account.
+```
+
+
+If you have this error:
+'react-scripts' is not recognized as an internal or external command
+
+You can solve it with "npm install react-scripts --save"
+
+
+Key Features:
+
+
+What I had learned:
+
+

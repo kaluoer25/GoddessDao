@@ -179,7 +179,7 @@ useEffect(async () => {
   if (!address) {
     return (
       <div className="landing">
-        <h1>Welcome to GoddessDAO</h1>
+        <h1>✨ Welcome to GoddessDAO ✨</h1>
         <button onClick={() => connectWallet("injected")} className="btn-hero">
           Connect your wallet
         </button>
@@ -191,13 +191,13 @@ useEffect(async () => {
 if (hasClaimedNFT) {
   return (
     <div className="member-page">
-      <h1>🍪DAO Member Page</h1>
+      <h1>💃GoddessDAO Member Page</h1>
       <p>Congratulations on being a member</p>
       <div>
         <div>
           <h2>Member List</h2>
           <table className="card">
-            <thead>
+            <thead> 
               <tr>
                 <th>Address</th>
                 <th>Token Amount</th>
@@ -367,7 +367,7 @@ if (hasClaimedNFT) {
   // Render mint nft screen.
   return (
     <div className="mint-nft">
-      <h1>Mint your free 🍪DAO Membership NFT</h1>
+      <h1>Mint your free 💃GoddessDAO Membership NFT</h1>
       <button
         disabled={isClaiming}
         onClick={() => mintNft()}
