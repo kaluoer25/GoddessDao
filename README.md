@@ -2,7 +2,7 @@
 
 This Dao is build from Javascript.
 
-'''Below URL Diagram for the build.''''
+
 
 
 ## General info
